@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://goetheprep.com/sitemap.xml
+Sitemap: https://a1.goetheprep.com/sitemap.xml
 
 # Agent-friendly site summary
-# See also: https://goetheprep.com/llms.txt
+# See also: https://a1.goetheprep.com/llms.txt
